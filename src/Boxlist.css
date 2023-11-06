@@ -1,0 +1,6 @@
+.BoxOut{
+    display: flex;
+    flex-direction: row;
+    margin: 2%;
+    flex-wrap: wrap;
+}

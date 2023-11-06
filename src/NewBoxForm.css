@@ -1,0 +1,10 @@
+.BoxForm {
+  border-style: dashed;
+  padding: 5%;
+  margin: 4%
+}
+
+.FormLabel {
+  margin: 2%;
+  background-color: beige;
+}
